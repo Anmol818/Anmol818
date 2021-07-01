@@ -1,4 +1,3 @@
-### Hi there 👋 I am Anmol
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anmol!]<!--(https://kunal-kushwaha.github.io) -->
 
 <a href="https://www.linkedin.com/in/anmol-gautam-5a8867190/">
@@ -7,8 +6,8 @@
 <a href="mailto:anmolgautam818@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br></br>
 
-<br />
 [![Anmol818's github stats](https://github-readme-stats.vercel.app/api?username=Anmol818&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol818&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
